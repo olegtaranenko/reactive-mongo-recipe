@@ -23,7 +23,7 @@ public class Ingredient {
 
     private String description;
     private BigDecimal amount;
-    private Recipe recipe;
+//    private Recipe recipe;
     private UnitOfMeasure uom;
 
 }

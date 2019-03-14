@@ -1,4 +1,4 @@
-package com.olegtaranenko.udemy.reactivemongorecipe;
+package com.olegtaranenko.udemy.recipe;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

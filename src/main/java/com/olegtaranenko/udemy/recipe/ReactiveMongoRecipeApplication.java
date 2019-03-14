@@ -1,4 +1,4 @@
-package com.olegtaranenko.udemy.reactivemongorecipe;
+package com.olegtaranenko.udemy.recipe;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -14,6 +14,9 @@ import java.util.Set;
 @Getter
 @Setter
 @Document
+@Builder
+@NoArgsConstructor
+@AllArgsConstructor
 public class Category {
 
     @Id

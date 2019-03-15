@@ -24,7 +24,7 @@ public class Category {
     private String description;
 
     @Builder.Default
-    @DBRef
+//    @DBRef
     private Set<Recipe> recipes = new HashSet<>();
 
 }
